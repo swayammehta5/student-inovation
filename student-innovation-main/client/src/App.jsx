@@ -305,7 +305,7 @@ function About() {
         <div className="about-cards">
           <div className="about-card">
             <div className="avatar">SB</div>
-            <h3>Sahil Bhardwaj</h3>
+            <h3>Sahil</h3>
             <p>Full Stack Developer</p>
             <a href="#" target="_blank" rel="noreferrer">LinkedIn</a>
           </div>
