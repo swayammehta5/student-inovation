@@ -322,6 +322,12 @@ function About() {
             <p>Database / FrontEnd Contributor</p>
             <a href="#" target="_blank" rel="noreferrer">LinkedIn</a>
           </div>
+          <div className="about-card">
+            <div className="avatar">TM</div>
+            <h3>Nikhil</h3>
+            <p>Database / FrontEnd Contributor</p>
+            <a href="#" target="_blank" rel="noreferrer">LinkedIn</a>
+          </div>
         </div>
       </div>
     </div>
