@@ -14,7 +14,7 @@ Cloud Deployment Readiness
 
 🎯 Project Objective
 
-The objective of this project is to build a scalable and deployable platform where:
+The objective of this project is to build a scalable and deployable platform where:.
 
 Students can submit their innovative ideas
 
